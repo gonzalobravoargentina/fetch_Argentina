@@ -12,7 +12,7 @@ With this R scrip you can calculate wind fetch in any point of the Argentinean c
 
 ## Sources
 
-Package used for calculate fetch:
+Package used for calculating fetch:
 * [fetchR](https://github.com/blasee/fetchR)
 
 
