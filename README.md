@@ -3,7 +3,7 @@ Wind fetch
 ==========
 
 The fetch length, is the length of water over which a given wind can blown. The higher the wind fetch
-from a certain direction, then more wave energy could be imparted if the wind blows for that direction. Wind Fetch shuld be analysed along with the predominant wind speed and direction of the sites. If you got a high fetch value but the wind blows few times in the year from that direction, then the wave energy shouldnt be representative.
+from a certain direction, then more wave energy could be imparted if the wind blows for that direction. Wind Fetch should be analysed along with the predominant wind speed and direction of the sites. If you got a high fetch value but the wind blows few times in the year from that direction, then wave energy will not be well represented by fetch.
 
 fetch_Argentina
 ==========
