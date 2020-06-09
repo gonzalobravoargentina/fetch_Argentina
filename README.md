@@ -25,7 +25,7 @@ Only available in the development version from GitHub
 devtools::install_github("blasee/fetchR")
 ```
 
-## Results can be stored in KML and it can be imported into Google Earth
+## Results can be stored in KML and imported into Google Earth
 ![KML](https://www.proyectosub.org.ar/wp-content/uploads/2020/06/Screen-Shot-2020-06-08-at-15.49.04.png)
 
 
