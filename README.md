@@ -24,6 +24,15 @@ Only available in the development version from GitHub
 ```{r eval=FALSE}
 devtools::install_github("blasee/fetchR")
 ```
+In the case devtools::install_github("blasee/fetchR") doesn't work try: 
+
+```{r eval=FALSE}
+devtools::install_local(file.choose())
+```
+Using the pop-up menu, navigate to the 'fetchR-master.zip' file found in this repo. 
+
+* [Installation Issues](https://github.com/blasee/fetchR/issues/3)
+
 
 ## Results can be stored in KML and imported into Google Earth
 ![KML](https://www.proyectosub.org.ar/wp-content/uploads/2020/06/Screen-Shot-2020-06-08-at-15.49.04.png)
